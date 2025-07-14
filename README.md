@@ -2,7 +2,7 @@
 
 Dieses Repository enthält den gesamten Quellcode, die Daten und die Analyse für die Bachelorarbeit mit dem Titel: **"GameStop – Ein Symptom systematischer Schwächen im Finanzmarkt: Eine empirische Analyse von Short Selling, Retail-Investoren und Social Media"**.
 
-## 📝 Projektübersicht
+## Projektübersicht
 
 Dieses Projekt führt eine empirische Analyse durch, um den Zusammenhang zwischen den Aktivitäten in Reddit-Communities (insbesondere r/wallstreetbets, r/gme, r/Superstonk) und den Marktbewegungen der GameStop-Aktie (GME) zu untersuchen. Der Fokus liegt darauf, quantitative Belege für den Einfluss von Social Media und koordinierten Retail-Investoren auf den Aktienkurs, das Handelsvolumen und die Volatilität zu finden.
 
@@ -17,7 +17,7 @@ Der Workflow ist in mehrere Phasen unterteilt:
 *   `/Daten:` Enthält die Rohdaten (z.B. heruntergeladene HTML-Dateien) sowie die aufbereiteten CSV-Dateien, die von den Skripten generiert und verwendet werden.
 *   `/Ergebnisse:` Enthält die finalen Ergebnisse der Analyse wie die umfassende CSV-Datei (`COMPREHENSIVE_ANALYSIS_DATA.csv`), Grafiken (z.B. `heatmap_concurrent_correlation.png`) und den generierten PDF-Bericht (`Statistische_Relevanzanalyse_Report.pdf`).
 
-## 🚀 Erste Schritte
+## Erste Schritte
 
 Um dieses Projekt lokal nachzubauen und die Analysen auszuführen, sind folgende Schritte erforderlich.
 
@@ -76,7 +76,7 @@ Die Skripte sind so konzipiert, dass sie in einer bestimmten Reihenfolge ausgef�
 4.  **Export der Ergebnisse:**
     *   Führen Sie abschließend `stat_relevance_pdf_export.py` aus, um die wichtigsten Ergebnisse in einem PDF-Bericht zusammenzufassen.
 
-## 🛠️ Code-Beschreibung
+## Code-Beschreibung
 
 Die Skripte sind modular aufgebaut, um die verschiedenen Phasen des Projekts abzubilden.
 
@@ -120,7 +120,7 @@ Die Skripte sind modular aufgebaut, um die verschiedenen Phasen des Projekts abz
 
 **Details:** Dieses Skript nimmt die numerischen Ergebnisse und die generierte Heatmap-Grafik aus `stat_relevance.py` und verwendet die `fpdf2`-Bibliothek, um einen zusammenfassenden, mehrseitigen Bericht im PDF-Format zu erstellen. Es beinhaltet formatierte Tabellen für deskriptive Statistiken und Korrelationsmatrizen sowie die eingebettete Heatmap-Grafik, um eine übersichtliche Präsentation der Ergebnisse zu gewährleisten.
 
-## 📈 Methodik
+## Methodik
 
 *   **Forschungsdesign:** Mixed-Methods-Ansatz, mit einem Schwerpunkt auf quantitativer Zeitreihenanalyse, ergänzt durch qualitative Experteninterviews.
 *   **Datenerhebungsmethoden:** Primärdatenerhebung von Reddit mittels Scraping von `subredditstats.com` und der Wayback Machine; Sekundärdatenerhebung von Finanzdaten durch Parsen einer lokalen HTML-Datei von Yahoo Finance.
