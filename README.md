@@ -1,6 +1,8 @@
 # Bachelorarbeit_MoritzW
 Diese Bachelorarbeit analysiert den Zusammenhang zwischen Reddit-Aktivitäten (Sentiment, Posts) und dem GameStop-Aktienkurs. Mittels Python wurden Daten gesammelt und aufbereitet. Eine statistische Auswertung durch Korrelations- und Granger-Kausalitätsanalysen untersucht den empirischen Einfluss von Social Media auf den Finanzmarkt.
 
+Die Skripte umfassen insgesamt etwa 2.200 Zeilen an Code und bearbeiten folgende Themen:
+
 ## Skripte:
 
 **activity_scraper.py:** Dieses Skript sammelt Metriken zur Nutzeraktivität wie die Anzahl der Abonnenten und täglichen Posts aus den relevanten Subreddits.
