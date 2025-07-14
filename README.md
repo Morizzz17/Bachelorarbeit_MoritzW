@@ -14,17 +14,8 @@ Der Workflow ist in mehrere Phasen unterteilt:
 ### Repository-Inhalte
 
 *   `/Skripte:` Enthält alle Python-Skripte (`.py`), die für den gesamten Prozess von der Datenerhebung bis zur finalen Analyse verwendet wurden.
-*   `/Daten:` (Empfehlung) Enthält die Rohdaten (z.B. heruntergeladene HTML-Dateien) sowie die aufbereiteten CSV-Dateien, die von den Skripten generiert und verwendet werden.
-*   `/Ergebnisse:` (Empfehlung) Enthält die finalen Ergebnisse der Analyse wie die umfassende CSV-Datei (`COMPREHENSIVE_ANALYSIS_DATA.csv`), Grafiken (z.B. `heatmap_concurrent_correlation.png`) und den exportierten PDF-Bericht.
-
-## 🎓 Informationen zur Abschlussarbeit
-
-*   **Autor:** Moritz Waldmann
-*   **Hochschule:** [Dein Hochschulname]
-*   **Studiengang:** [Dein Studiengang]
-*   **Thema:** GameStop – Ein Symptom systematischer Schwächen im Finanzmarkt: Eine empirische Analyse von Short Selling, Retail-Investoren und Social Media
-*   **Betreuer:** [Name des Betreuers]
-*   **Datum:** [Datum der Abgabe]
+*   `/Daten:` Enthält die Rohdaten (z.B. heruntergeladene HTML-Dateien) sowie die aufbereiteten CSV-Dateien, die von den Skripten generiert und verwendet werden.
+*   `/Ergebnisse:` Enthält die finalen Ergebnisse der Analyse wie die umfassende CSV-Datei (`COMPREHENSIVE_ANALYSIS_DATA.csv`), Grafiken (z.B. `heatmap_concurrent_correlation.png`) und den exportierten PDF-Bericht.
 
 ## 🚀 Erste Schritte
 
