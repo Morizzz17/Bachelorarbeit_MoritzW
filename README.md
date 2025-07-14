@@ -59,7 +59,7 @@ Um dieses Projekt lokal nachzubauen und die Analysen auszuführen, sind folgende
 
 ### Ausführung
 
-Die Skripte sind so konzipiert, dass sie in einer bestimmten Reihenfolge ausgeführt werden, um die Datenpipeline abzubilden.
+Die Skripte sind so konzipiert, dass sie in einer bestimmten Reihenfolge ausgeführt werden, um die Datenpipeline abzubilden. Darüberhinaus ist der Input und Output Ordner innerhalb der Skripte festzulegen. Hierfür müssen *OUTPUT_DIR* und gegebenenfalls *Input-Pfade* angepasst werden.
 
 1.  **Datenerhebung (mehrere Quellen):**
     *   Führen Sie `wayback_auto_daily_downloader.py` aus, um historische HTML-Snapshots der Reddit-Seiten zu sammeln.
