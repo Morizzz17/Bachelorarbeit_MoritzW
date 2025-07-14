@@ -15,7 +15,7 @@ Der Workflow ist in mehrere Phasen unterteilt:
 
 *   `/Skripte:` Enthält alle Python-Skripte (`.py`), die für den gesamten Prozess von der Datenerhebung bis zur finalen Analyse verwendet wurden.
 *   `/Daten:` Enthält die Rohdaten (z.B. heruntergeladene HTML-Dateien) sowie die aufbereiteten CSV-Dateien, die von den Skripten generiert und verwendet werden.
-*   `/Ergebnisse:` Enthält die finalen Ergebnisse der Analyse wie die umfassende CSV-Datei (`COMPREHENSIVE_ANALYSIS_DATA.csv`), Grafiken (z.B. `heatmap_concurrent_correlation.png`) und den exportierten PDF-Bericht.
+*   `/Ergebnisse:` Enthält die finalen Ergebnisse der Analyse wie die umfassende CSV-Datei (`COMPREHENSIVE_ANALYSIS_DATA.csv`), Grafiken (z.B. `heatmap_concurrent_correlation.png`) und den generierten PDF-Bericht (`Statistische_Relevanzanalyse_Report.pdf`).
 
 ## 🚀 Erste Schritte
 
