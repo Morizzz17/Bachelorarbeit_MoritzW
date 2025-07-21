@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 30 11:12:19 2025
 
-@author: Moriz
+@author: Moritz
 Funktion:
 Führt mithilfe von VADER eine Sentiment-Analyse auf einem übergebenen Text durch und gibt ein Dictionary mit den Scores (negativ, neutral, positiv und compound) zurück.
 """
