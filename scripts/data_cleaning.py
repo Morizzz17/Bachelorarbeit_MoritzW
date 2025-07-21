@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 29 19:30:11 2025
 
-@author: Moriz
+@author: Moritz
 Funktion:
 Entfernt HTML-Tags, Sonderzeichen und überflüssige Leerzeichen aus einem Text und konvertiert den Text in Kleinbuchstaben.
 Test:
