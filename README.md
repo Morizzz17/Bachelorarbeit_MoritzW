@@ -2,6 +2,10 @@
 
 Dieses Repository enthält den gesamten Quellcode, die Daten und die Analyse für die Bachelorarbeit mit dem Titel: **"GameStop – Ein Symptom systematischer Schwächen im Finanzmarkt: Eine empirische Analyse von Short Selling, Retail-Investoren und Social Media"**.
 
+## Excel Dateien
+
+Neben dem Python Projekt sind in diesem Repository ebenfalls die erstellten Excel-Dateien und -Auswertungen in dem Ordner "Excel" zu finden.
+
 ## Projektübersicht
 
 Dieses Projekt führt eine empirische Analyse durch, um den Zusammenhang zwischen den Aktivitäten in Reddit-Communities (insbesondere r/wallstreetbets, r/gme, r/Superstonk) und den Marktbewegungen der GameStop-Aktie (GME) zu untersuchen. Der Fokus liegt darauf, quantitative Belege für den Einfluss von Social Media und koordinierten Retail-Investoren auf den Aktienkurs, das Handelsvolumen und die Volatilität zu finden.
