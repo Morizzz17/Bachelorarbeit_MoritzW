@@ -3,7 +3,7 @@
 Created on Tue Mar 25 17:54:35 2025
 
 WSB, SUPERSTONK, GME
-@author: Moriz
+@author: Moritz
 
 Automatischer HTML-Snapshot-Downloader über Wayback CDX API
 Speichert tägliche Snapshots von r/wallstreetbets/ im gewünschten Zeitraum.
