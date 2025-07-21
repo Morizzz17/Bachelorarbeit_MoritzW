@@ -8,7 +8,7 @@ manuelle Visualisierungen und generiert einen PDF-Bericht der Ergebnisse.
 
 Änderung: Korrekte Tabellenerstellung mit fpdf.table() und Erklärung zur Stationarität.
 
-@author: Moritz (angepasst mit KI)
+@author: Moritz
 """
 
 import pandas as pd
